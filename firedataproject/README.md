@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\ganza\Desktop\firedataproject\functions\lastfirebaseproject-firebase-adminsdk-w25d0-469b0bb00a.json"
