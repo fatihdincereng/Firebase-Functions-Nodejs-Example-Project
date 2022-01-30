@@ -4,10 +4,7 @@ Firebase Functions mantığını anlamak ve deploy testi yapabilmek için oluşt
 >cd functions
 >npm install
 >npm run start
-
-
-sad
-# Eksikler
+# Yapılacaklar
 Firebase Authentication Eklenerek Kullanıcı Oturum Kontrolleri Projeye Eklenicek
 
 
